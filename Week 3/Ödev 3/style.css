@@ -29,6 +29,8 @@ article > p {
 h3 {
     background-color: rgb(102, 178, 178);
     display: inline;
+    padding: 5px;
+    border-radius: 5px;
 }
 .details-header {
     color: white;
