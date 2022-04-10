@@ -1,0 +1,21 @@
+.market {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2em;
+    padding: 15px;
+    box-shadow: 0 0 1.5px rgb(93, 89, 90);
+    border-radius: 5px;
+    width: max-content;
+    margin: 20px auto;
+    background-color: black;
+    color: white;
+}
+
+figcaption {
+    text-align: center;
+    font-size: large;
+    margin-top: 5px;
+    text-decoration: underline;
+}
