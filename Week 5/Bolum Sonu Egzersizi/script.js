@@ -31,8 +31,3 @@ const addItem = (name, score) => {
 } 
 
 
-// additem i tamamla 
-// listeyi ekle 
-// hata mesaji gonder alert ile 
-// sayi seyini ayarla mavi olan 
-
